@@ -1,1 +1,1 @@
-SimpleOJ 前端，基于 React+Antd-pro
+基于antd pro的后台管理
